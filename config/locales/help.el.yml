@@ -1,0 +1,71 @@
+el:
+  new_help:
+    how_to:
+      start_group_link: Ξεκινήστε μια ομάδα
+      invite_people_link: Προσκαλέστε άτομα
+      start_discussion_link: Ξεκινήστε μια συζήτηση
+    contents:
+      getting_started:
+        title_html: Ξεκινώντας
+      group_settings:
+        group_permissions_html: Δικαιώματα ομάδας
+      inviting_members:
+        pending_invitations_html: Εκκρεμείς προσκλήσεις
+      discussion_threads:
+        discussion_privacy_html: Προστασία Συζήτησης
+      subgroups:
+        title_html: Υπο-ομάδες
+      keeping_up_to_date:
+        volume_html: Ένταση
+        email_settings_html: Ρυθμίσεις ηλεκτρονικού ταχυδρομείου
+      user_profile:
+        account_deactivation_html: Απενεργοποιείται ο λογαριασμός σας
+    getting_started:
+      title: Ξεκινώντας
+    group_settings:
+      group_privacy:
+        who_can_find_this_group:
+          title: Ποιος μπορεί να βρει αυτή την ομάδα?
+        how_do_people_join:
+          title: Πως μπορούν τα άτομα να συμμετάσχουν?
+        who_can_see_discussions:
+          title: Ποιος μπορεί να δει τις συζητήσεις?
+      group_permissions:
+        title: Δικαιώματα ομάδας
+        what_can_members_do:
+          title: Τι μπορούν να κάνουν τα μέλη?
+          invite_and_approve_new_members:
+            title: Προσκαλέστε και εγκρίνετε νέα μέλη
+          start_discussions:
+            title: Ξεκινήστε συζητήσεις
+          edit_discussion_context:
+            title: Επεξεργαστείτε το περιεχόμενο οποιασδήποτε συζήτησης στην ομάδα
+          edit_comments:
+            title: Να επεξεργαστούν τα σχόλια τους οποιαδήποτε στιγμή
+          raise_proposals:
+            title: Σηκώστε προτάσεις
+          vote_on_proposals:
+            title: Ψηφίστε σε προτάσεις
+    inviting_members:
+      pending_invitations:
+        title: Εκκρεμείς προσκλήσεις
+    discussion_threads:
+      discussion_privacy:
+        title: Προστασία Συζήτησης
+    subgroups:
+      title: Υπο-ομάδες
+    keeping_up_to_date:
+      volume:
+        title: Ένταση
+        body:
+          loud_title: Δυνατά
+          normal_title: Κανονικά
+          quiet_title: Ήσυχα
+          mute_title: Σίγαση
+      email_settings:
+        title: Ρυθμίσεις ηλεκτρονικού ταχυδρομείου
+      yesterday_on_loomio:
+        title: Χθες στο Loomio
+    user_profile:
+      account_deactivation:
+        title: Απενεργοποιείται ο λογαριασμός σας

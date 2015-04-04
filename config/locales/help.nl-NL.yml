@@ -1,0 +1,71 @@
+nl-NL:
+  new_help:
+    how_to:
+      start_group_link: Begin een groep
+      invite_people_link: Mensen uitnodigen
+      start_discussion_link: Begin een discussie
+    contents:
+      getting_started:
+        title_html: Aan de slag
+      group_settings:
+        group_permissions_html: Groepsmachtigingen
+      inviting_members:
+        pending_invitations_html: Uitnodigingsverzoeken
+      discussion_threads:
+        discussion_privacy_html: Discussie privacy
+      subgroups:
+        title_html: Subgroepen
+      keeping_up_to_date:
+        volume_html: Volume
+        email_settings_html: E-mail instellingen
+      user_profile:
+        account_deactivation_html: Account wordt gedeactiveerd
+    getting_started:
+      title: Aan de slag
+    group_settings:
+      group_privacy:
+        who_can_find_this_group:
+          title: Wie kan deze groep vinden?
+        how_do_people_join:
+          title: Hoe worden mensen lid?
+        who_can_see_discussions:
+          title: Zichtbaarheid van discussies
+      group_permissions:
+        title: Groepsmachtigingen
+        what_can_members_do:
+          title: Wat kunnen leden doen?
+          invite_and_approve_new_members:
+            title: Nodig nieuwe leden uit en laat ze toe
+          start_discussions:
+            title: Discussies beginnen
+          edit_discussion_context:
+            title: Bewerk de context van een discussie in de groep
+          edit_comments:
+            title: Bewerk hun reacties op elk moment
+          raise_proposals:
+            title: Voorstellen doen
+          vote_on_proposals:
+            title: Op voorstellen stemmen
+    inviting_members:
+      pending_invitations:
+        title: Uitnodigingsverzoeken
+    discussion_threads:
+      discussion_privacy:
+        title: Discussie privacy
+    subgroups:
+      title: Subgroepen
+    keeping_up_to_date:
+      volume:
+        title: Volume
+        body:
+          loud_title: Luid
+          normal_title: Normaal
+          quiet_title: Stil
+          mute_title: Dempen
+      email_settings:
+        title: E-mail instellingen
+      yesterday_on_loomio:
+        title: Gisteren op Loomio
+    user_profile:
+      account_deactivation:
+        title: Account wordt gedeactiveerd

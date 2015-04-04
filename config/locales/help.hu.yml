@@ -1,0 +1,71 @@
+hu:
+  new_help:
+    how_to:
+      start_group_link: Indíts egy csoportot
+      invite_people_link: Hívj meg másokat
+      start_discussion_link: Téma indítása
+    contents:
+      getting_started:
+        title_html: Kezdjük
+      group_settings:
+        group_permissions_html: Csoport engedélyezések
+      inviting_members:
+        pending_invitations_html: Függőben levő meghívók
+      discussion_threads:
+        discussion_privacy_html: Beszélgetések titkosítása
+      subgroups:
+        title_html: Alcsoportok
+      keeping_up_to_date:
+        volume_html: Hangerő
+        email_settings_html: Email beállítások
+      user_profile:
+        account_deactivation_html: Deaktiváljuk a fiókod
+    getting_started:
+      title: Kezdjük
+    group_settings:
+      group_privacy:
+        who_can_find_this_group:
+          title: Ki találhatja meg ezt a csoportot?
+        how_do_people_join:
+          title: Hogy lehet csatlakozni?
+        who_can_see_discussions:
+          title: Ki láthatja a vitákat?
+      group_permissions:
+        title: Csoport engedélyezések
+        what_can_members_do:
+          title: Mit tehetnek a tagok?
+          invite_and_approve_new_members:
+            title: Hivj meg és hagyd jóvá az új tagok csatlakozását
+          start_discussions:
+            title: Vitákat kezdeményez
+          edit_discussion_context:
+            title: Szerkeszti a viták összegzését a csoportban
+          edit_comments:
+            title: Szerkeszti a hozzászólásaikat bármikor
+          raise_proposals:
+            title: Javaslatokat indít
+          vote_on_proposals:
+            title: Szavaz a javaslatokon
+    inviting_members:
+      pending_invitations:
+        title: Függőben levő meghívók
+    discussion_threads:
+      discussion_privacy:
+        title: Beszélgetések titkosítása
+    subgroups:
+      title: Alcsoportok
+    keeping_up_to_date:
+      volume:
+        title: Hangerő
+        body:
+          loud_title: Hangos
+          normal_title: Normál
+          quiet_title: Csendes
+          mute_title: Néma
+      email_settings:
+        title: Email beállítások
+      yesterday_on_loomio:
+        title: Tegnap a Loomio-n
+    user_profile:
+      account_deactivation:
+        title: Deaktiváljuk a fiókod

@@ -1,0 +1,71 @@
+de:
+  new_help:
+    how_to:
+      start_group_link: Gründen Sie eine Gruppe
+      invite_people_link: Leute einladen
+      start_discussion_link: Diskussion starten
+    contents:
+      getting_started:
+        title_html: Loslegen
+      group_settings:
+        group_permissions_html: Gruppen-Berechtigungen
+      inviting_members:
+        pending_invitations_html: Unbestätigte Einladungen
+      discussion_threads:
+        discussion_privacy_html: Diskussionssphäre
+      subgroups:
+        title_html: Untergruppen
+      keeping_up_to_date:
+        volume_html: Lautstärke
+        email_settings_html: Email Einstellungen
+      user_profile:
+        account_deactivation_html: Konto deaktivieren
+    getting_started:
+      title: Loslegen
+    group_settings:
+      group_privacy:
+        who_can_find_this_group:
+          title: Wer kann diese Gruppe sehen?
+        how_do_people_join:
+          title: Wie kann jemand teilnehmen?
+        who_can_see_discussions:
+          title: Wer kann Diskussionen sehen?
+      group_permissions:
+        title: Gruppen-Berechtigungen
+        what_can_members_do:
+          title: Was Mitglieder tun können?
+          invite_and_approve_new_members:
+            title: Neue Mitglieder einladen und annehmen
+          start_discussions:
+            title: Diskussionen eröffnen
+          edit_discussion_context:
+            title: Den Kontext jeder Diskussion in dieser Gruppe bearbeiten
+          edit_comments:
+            title: Jederzeit ihre Kommentare bearbeiten
+          raise_proposals:
+            title: Vorschläge einbringen
+          vote_on_proposals:
+            title: Über Vorschläge abstimmen
+    inviting_members:
+      pending_invitations:
+        title: Unbestätigte Einladungen
+    discussion_threads:
+      discussion_privacy:
+        title: Diskussionssphäre
+    subgroups:
+      title: Untergruppen
+    keeping_up_to_date:
+      volume:
+        title: Lautstärke
+        body:
+          loud_title: Laut
+          normal_title: Normal
+          quiet_title: Leise
+          mute_title: Stumm
+      email_settings:
+        title: Email Einstellungen
+      yesterday_on_loomio:
+        title: Gestern auf Loomio
+    user_profile:
+      account_deactivation:
+        title: Konto deaktivieren
