@@ -1026,6 +1026,16 @@ el:
   yahoo: Yahoo
   google: Google
   persona: Persona
+  log_in_with_third_party: "Η συνδεθείτε με το λογαριασμό τρίτου:"
+  log_in_with_google: Σύνδεση με την Google
+  log_in_with_facebook: Σύνδεση με το Facebook
+  log_in_with_persona: Σύνδεση με το Persona
+  log_in_with_twitter: Σύνδεση με το Twitter
+  sign_up_with_third_party: "Ή συνδεθείτε με ένα λογαριασμό τρίτου προσώπου:"
+  sign_up_with_google: Είσοδος μέσω Google
+  sign_up_with_facebook: Είσοδος μέσω Facebook
+  sign_up_with_persona: Είσοδος μέσω Persona
+  sign_up_with_twitter: Είσοδος μέσω Twitter
   common:
     profile: Προφίλ
     email_settings: Ρυθμίσεις ηλεκτρονικού ταχυδρομείου

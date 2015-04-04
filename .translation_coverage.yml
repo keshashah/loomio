@@ -24,16 +24,16 @@ da:
   main: 90
 de:
   frontpage: 100
-  main: 98
+  main: 100
 el:
   frontpage: 100
-  main: 98
+  main: 100
 eo:
   frontpage: 89
   main: 89
 es:
   frontpage: 100
-  main: 98
+  main: 100
 fa-IR:
   frontpage: 89
   main: 12
@@ -53,7 +53,7 @@ he:
   frontpage: 92
   main: 65
 hr:
-  frontpage: 89
+  frontpage: 97
   main: 46
 hu:
   frontpage: 100
