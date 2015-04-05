@@ -32,11 +32,11 @@ da:
   main: 92
 de:
   frontpage: 100
-  help docs: 11
+  help docs: 40
   main: 100
 el:
   frontpage: 100
-  help docs: 11
+  help docs: 47
   main: 100
 eo:
   frontpage: 89
@@ -76,8 +76,8 @@ hr:
   main: 47
 hu:
   frontpage: 100
-  help docs: 11
-  main: 98
+  help docs: 66
+  main: 100
 id:
   frontpage: 48
   help docs: 3
@@ -128,7 +128,7 @@ pl:
   main: 18
 pt-BR:
   frontpage: 100
-  help docs: 11
+  help docs: 63
   main: 100
 pt-PT:
   frontpage: 28
